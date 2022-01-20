@@ -1,0 +1,1 @@
+Draw a cube with a different color for each face using indexed buffer
