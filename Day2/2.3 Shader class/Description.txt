@@ -1,0 +1,4 @@
+Create a class that handle all shader operations, typical usage of the class should look like the following:
+Shader* shader = Shader::create("VertexShader.glsl", "FragmentShader.glsl");
+shader->use();
+shader->get_uniform_loc("model_mat");
