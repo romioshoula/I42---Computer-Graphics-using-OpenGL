@@ -1,0 +1,2 @@
+Create a line drawer (similar to paint), in which the user can draw a line by pressing left mouse button and move the mouse, once the user releases the left mouse button the program should stop drawing, user can draw multiple segments which shouldn't be connected
+Bonus: implement undo and redo
