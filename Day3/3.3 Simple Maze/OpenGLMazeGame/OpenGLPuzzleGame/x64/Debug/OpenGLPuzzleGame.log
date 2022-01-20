@@ -1,0 +1,25 @@
+﻿  Block.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\Material.h(2,10): fatal error C1083: Cannot open include file: 'glew\glew.h': No such file or directory
+  Camera.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\Camera.h(2,10): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  CubeMap.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\CubeMap.h(3,10): fatal error C1083: Cannot open include file: 'glew\glew.h': No such file or directory
+  CubeMappingMaterial.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\Material.h(2,10): fatal error C1083: Cannot open include file: 'glew\glew.h': No such file or directory
+  GameWindow.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\GameWindow.h(4,10): fatal error C1083: Cannot open include file: 'glew\glew.h': No such file or directory
+  Geometry.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\Geometry.h(2,10): fatal error C1083: Cannot open include file: 'glew\glew.h': No such file or directory
+  Main.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\MyWindow.h(6,9): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Material.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\Material.h(2,10): fatal error C1083: Cannot open include file: 'glew\glew.h': No such file or directory
+  Mesh.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\Material.h(2,10): fatal error C1083: Cannot open include file: 'glew\glew.h': No such file or directory
+  MyWindow.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\MyWindow.h(6,9): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Transform.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\Transform.h(2,10): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  UnlitTextureMaterial.cpp
+C:\Users\Sarah\source\Opengl_sfml_box2d\Opengl_sfml_box2d 32 - Maze\OpenGLMazeGame\OpenGLPuzzleGame\Material.h(2,10): fatal error C1083: Cannot open include file: 'glew\glew.h': No such file or directory
+  Generating Code...

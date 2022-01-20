@@ -1,0 +1,2 @@
+Create a simple 3d maze using the FPCamera and Mesh class, the maze world should contain floor, ceil, and multiple walls
+Bonus: Load maze structure from external file (e.g. txt file)
