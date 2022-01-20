@@ -1,0 +1,2 @@
+Draw triangles-based color wheel, in which each triangle has a different color
+Bonus: rotate the triangle over time
