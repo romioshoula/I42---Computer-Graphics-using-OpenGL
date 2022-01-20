@@ -1,0 +1,2 @@
+Draw a sin wave that can be controlled from the shader side, the program should define a set of points that all have Y-value = 0, and the shader should change the Y-value of the point based on the x-value to form a sin wave shape.
+Bonus: make the sine wave move overtime by changing the phase (w) of the wave
