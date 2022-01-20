@@ -1,0 +1,2 @@
+Draw a mandelbrot or any other fractal in shader, the program should create a full screen Quad and the shader should assign each fragment its color based on the Fractal (Mandelbrot) equation
+Bonus: Make it colorful :D
