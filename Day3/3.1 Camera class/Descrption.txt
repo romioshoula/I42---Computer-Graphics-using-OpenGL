@@ -1,0 +1,1 @@
+Create a class for a camera that can handle two projection modes (perspective and orthographic),  then extend your camera class to create different kinds of cameras (Trackball, free-fly, FPS etc.)
