@@ -1,0 +1,7 @@
+Implement a class that can be used as a parent class for each game window, the class should implement all the details of creating SFML window and glew initialization, and gives the child class the ability to focus on game logic by implementing Start, Update, Render, the main function should do nothing more than defining an object from game class and run it:
+#include "MyWindow.h"
+int main()
+{
+MyWindow window;
+window.Run();
+}
